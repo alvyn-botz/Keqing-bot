@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "@adiwajshing/baileys": "^3.5.3",
     "async": "^3.2.1",
     "awesome-phonenumber": "^2.62.0",
     "axios": "^0.21.4",
